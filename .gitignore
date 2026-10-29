@@ -9,6 +9,9 @@ __pycache__/
 # Conda installer
 Miniconda3-latest-Windows-x86_64.exe
 
+# IntelliJ IDEA
+.idea/
+
 # Distribution / packaging
 .Python
 build/
